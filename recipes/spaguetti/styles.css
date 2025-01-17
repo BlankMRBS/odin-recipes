@@ -1,0 +1,11 @@
+.head {
+    text-align: center;
+}
+body {
+    background-color: orange;
+}
+#recipeimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
